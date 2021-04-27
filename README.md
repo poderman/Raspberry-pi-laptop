@@ -1,4 +1,4 @@
-# Raspberry-pi-laptop
+# Raspberry-pi-laptop-and-watch
 
 https://poderman.github.io/Raspberry-pi-laptop/
 
